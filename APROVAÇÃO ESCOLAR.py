@@ -9,3 +9,4 @@ if media >= 6:
     print(f'A sua nota final foi de {media}, APROVADO!')
 else:
     print(f'A sua nota final foi de {media}, REPROVADO!')
+
